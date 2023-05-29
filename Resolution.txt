@@ -2,3 +2,4 @@ Arthevion Resolusi
 - Belajar coding dari youtube
 - Belajar algoritma dari hackerrank
 - Latihan coding dan berdiskusi dengan community
+- Membuat mini-project
