@@ -5,5 +5,7 @@
   - Belajar JavaScript
 2. Dea Afrizal
 3. Bro Code
+  - Fundamental Java
+  - Java OOP
   - Fundamental Python
 4. Digital Bootcamp 79
